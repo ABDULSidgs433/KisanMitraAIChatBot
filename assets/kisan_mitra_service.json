@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "kisan-mitra-xn9s",
+    "private_key_id": "0799920ffa04c72f3abdc5c251f4ec0c939643fd",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAq7LBIbCuysKz\n7qN62Frp94JbBTU0SZk6OlaIoDYreqSBlngQ0EVHcwIKKmq/Cb1hnaeM3TO75U83\nrh/5Hmayw9bTSB2LMx4O5+6imXgtwqxXfVLBRyY3C5p6ozPzBwpyOGdQMRCmgFOM\n8h4st3eML9bEFLXGw+LXkYgDhxH7w6g7/ZMgEcmui0ltfZb0OHjr5h5PKpuyBN7A\n3R5g1pfxkRprb+jo0BNMG7NzTNPUdbcHGV870W40rT7hyteaBQcAhTcNwHOA9Lkn\ndU62WulqzRJgiLtxR5bMYd3wE/ADNHuLq9tw+d4B/F6Np0+O+hvdeG4HSeIwutLg\nQ1t/NlbnAgMBAAECggEAFY2/qApgTRWCtYVPRYlZlk3ph8wr2QcYvKJVFuCxXqjQ\nKW0PTnY2IdmUU1XObkOlK3vrB/+g73amJ4jzq7dCbuIosKcjIvTbenhowkjf4GKk\nS/9JmDSg6kyCghCq2ZeijAeSSy7J+Y5mimB1jrQRjB237WSRt0Qnpszxhc+A7AST\nxG+/KLQMp3ekB5fLGsUtVm1w7sPR1CQjxWpZ+svVsSdk9cAsmoyuMPS9AXZ+juKJ\nNC2FmmEHplJnTRU/26h0h31uNmsv+AOS2eg9dldSKJtjhq9aSTcOsvaTIHUAb5xV\nv4qTolqvZVzsR2uo7Gk8h6bdvmUyRx2jPsdeu7CE7QKBgQD7jHJe2MYE7e00NV1r\nkkrtIjqM8X7tEFxftYp9uBjpz2fPJjEWAP9zi5bzzmHcapGS2v8LsGFPPqUJvhUL\nnHXLy07AkuOLeF+Z94d/v4ytBcvcndWLn73vQ//Dm9W1JaaFX848Pa4C0fVPK9SZ\n3UtBqmyXmzJoPajpqnoQuJhURQKBgQDEFIaOivWdIzcTTt0D/jXSeanqA9pqmHDk\nh+w3nwXWmoUfuRApSM6FQxigfZDBat2XUuN+3RsqNbPt2vCMUjB5qQlcAAIQGD3d\n7S4qo1MdnfQ7vxKeQt50kci0qivd7YClN/0BwiJLlh27+AqrxmI6LMg5DlJt1u3c\n+W1ECN1vOwKBgBQgvNYSCmZCk4Rl8L+2yQAIiR7WBA38DSgrYpWEsZmj2u6cY7kb\nA1W/iaigjvwQGu3hUB8jUeYBYTtSVmTDdDmGXxrRpht22k97mwAB18PQfut8RaYS\ndiQ7ELAaPBNum9B4RgxT8ySOoE5hd3WIW4k5lc7bwEDPDkEEPxgvbSDxAoGAQaLl\nT/3wLgPFwe7aSSXlemlDmZRknt4cnENrrUrMN4ROH8phQJCgoTdOnRqrRDOzrZ4P\njT4Sg9SqQGrTrwUsOO1+to9CIYUb4JguphM6FWX0hbN2VgfoU3khiGiWepmwQJ43\nUUldFZRQq8ViPRIRe4vWElNbAG27/gZ4rxeQmFUCgYEApUXez9xwX4wfHIoFYZ0U\nHE9FfQASGeRVJfzk9zpEvvWmYxsHjbSsT79T5Rbzgk7DiqnZ2uxl3BzSP46hd5rs\nmd904TgW8O1+msHN8iym3NN0Md4/gJmMrdAQ8tX7cMLc6Z2yTRHd4yLDwH+SDO9I\n08IjMcp6L0c7eBfW80GmyE0=\n-----END PRIVATE KEY-----\n",
+    "client_email": "kisan-mitra@kisan-mitra-xn9s.iam.gserviceaccount.com",
+    "client_id": "106115508790472203619",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kisan-mitra%40kisan-mitra-xn9s.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

@@ -1,0 +1,17 @@
+{
+  "type": "service_account",
+  "project_id": "hindi-agent-dv9d",
+  "private_key_id": "e444b3537f3b6709520a0cd520e131e949ac2d1f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm4KtH/+GckhDU\n5b+1WHtgxWyxIPvxmIm0lRyQLkX1ztdTQH4YYq6MSkMWL1EeFpL4gc+8+KBdhsC/\nYtpqEwaKaWTG4b1gd8wtOAyn+ztdOYBVy6dQN9hdq1lUDNZUk25lStzrs8OD0xeU\nqHrewfpWngKdgcBQbcfxb2YDPIKx88+179zHHfNTjpsQddMn1RpF4ElkVJtjgES+\nGd2P0Nhiyvr/D42EpETfYNW+YAFxd4p6hCOh3ZoJ5iRscjC4y0dQGtcXvSCWvVg7\nZ/StVqt9QvUgU33i0gMxGLAe3MvvjLnrr2vyoOCVznl5RdLez1dFv6SMI62frjrk\nJWm7BlVtAgMBAAECggEAEiJoapQWHoTJpcvBEqy8B5mcr1Olcq0qtcAzJkCTuLES\nuYjQyxyaLu5OWQWo+9XkgHM23H3A4OOpDtiSt06RpOPsICgILjNb3EQdgqRXYKZE\nLyPzmXuKxy8SL4M6SAmXcxQjas0SVOvRFwYHXYKt43twpFDP0c2u7yqLEZSh9+1u\nX9mGouCF/LRAtMMsMF0W+55VziVhtWz7IM57j46YUqHSyzedcdLnPlAvWwtPY3F/\nUN3zkYwy3XZ/AplGp4tBZrZd7uFEhSO7pT47gjZzfMD0BjijetN1b708WRT98ZIU\nWHdNlhXg5PFNqtBoWfIXi7NNIqmxG9VNrapd3BhBzwKBgQDVzRfHebaIhby0N2TO\n62CeReYa429zJ/f4+ZJHEdQQ/f/siXX7+csx+9Y9lMDLWENUsaiFpsYbpYdPdYtU\nNVNFwLEbAwLYaFwH4A4Frb+djdDdbd2hRwuJT62srsSQ7Di3Z1KKaqDPfVGwFYoe\n+QCTY9yeaEAnRn102m2zsQ2/6wKBgQDH0KHV5Db/Qgk7Ry9PAhMz3HafbYso+3tu\nce8nCOZ9phPWYGCNe5IJVmKCPUjINYJmnzFtlHBd6kwotXI546Ueuzu5jk6fNAtj\nHxSghMnmCLxVqVF9Rogz2dty4eSQQZdpRcB6mr3D9l+vQj2zZMtToAcSUKvlGDpG\nXA5MMSLCBwKBgA/hgBatD8XsSSwJwU8tZKvc/U6Z/jlLirvPrfHhfSMV+uCTBVSG\nJXW9Axjn57ozAC1WVPI4hRagoQBh9st2eoz/1yfufVOdzNg46FG7qjQFyLHp60CD\ninPUm03sXWV2ZnAZGKR3byJ6aIrvzqamUEiibkzF6Z4BOmhnoSZrzF2pAoGAZMWX\nmOPLyNhpB3hTJ6mIPbOGL8lzUWvjSEQ1tJ4MgHntr0RT7YbQk9z5OW3m8vHpng/T\nQcyHDxZG6pD31rI0aFdNO7vFcw0wYQEfygSuPlFRinImIuQbdOr+feXm+8nYrsL6\n29qGsfnjL+Rcccj3smkWp+n/hz68xRdQLqTpPqkCgYEAxOjKudOUDCVhJP08naW+\nE00lSbrAW9WymhS+QZEZDDr3K9reFJT4u1LOE76Owl8guthjEJG2CwGyz7hQG3+0\nTBTJD8IHEq+5FTxOu/eEk8SL4cUX5/WBTyslCesB57ZDgd+oAPwSBZAJzRQvP9vi\n749n1VaYl8RoNdYt1RoTufk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hindi-agent-chat-bot@hindi-agent-dv9d.iam.gserviceaccount.com",
+  "client_id": "116728739926037951577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hindi-agent-chat-bot%40hindi-agent-dv9d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+
+
